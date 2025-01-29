@@ -1,7 +1,7 @@
 ***Learning Platform Data Management with SQL***
 
 **Project Description**
-The Learning Platform Data Management System is a SQL-based project designed to efficiently store, manage, and retrieve data related to online learning platforms. This project provides a structured database system to handle student enrollments, course details, instructor information, and progress tracking, ensuring smooth operations for an e-learning environment.
+     The Learning Platform Data Management System is a SQL-based project designed to efficiently store, manage, and retrieve data related to online learning platforms. This project provides a structured database system to handle student enrollments, course details, instructor information, and progress tracking, ensuring smooth operations for an e-learning environment.
 
 **Features**
 **Student Management:** Store and manage student details, including personal information and enrollment history.

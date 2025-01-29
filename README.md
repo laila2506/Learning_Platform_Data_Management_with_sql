@@ -17,20 +17,31 @@ The Learning Platform Data Management System is a SQL-based project designed to 
 **Database Queries:** Execute complex SQL queries for reporting and analytics.
 
 **Technologies Used**
+
 **Database Management System:** MySQL
+
 **SQL Concepts Implemented:**
+
 **DDL (Data Definition Language):** Creating tables, relationships, and constraints.
+
 **DML (Data Manipulation Language):** Insert, update, delete operations.
+
 **Joins & Aggregations:** Querying data efficiently.
+
 **Stored Procedures & Triggers:** Automating database actions.
 
 **Database Schema Overview**
+
 The project consists of multiple normalized tables to organize data efficiently:
 
 Students (student_id, name, email, enrollment_date)
+
 Courses (course_id, title, description, instructor_id)
+
 Instructors (instructor_id, name, expertise)
+
 Enrollments (enrollment_id, student_id, course_id, status, completion_date)
+
 Progress (progress_id, student_id, course_id, quiz_score, completion_percentage)
 
 This project serves as a strong example of SQL-based data management, providing a practical learning experience in database design, query execution, and performance optimization.
